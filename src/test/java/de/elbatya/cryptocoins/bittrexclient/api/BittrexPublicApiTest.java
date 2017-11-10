@@ -2,6 +2,8 @@ package de.elbatya.cryptocoins.bittrexclient.api;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import de.elbatya.cryptocoins.bittrexclient.api.BittrexPublicApi;
 import de.elbatya.cryptocoins.bittrexclient.api.model.common.ApiResult;
 import de.elbatya.cryptocoins.bittrexclient.api.model.publicapi.*;
 import de.elbatya.cryptocoins.bittrexclient.config.ObjectMapperConfigurer;
